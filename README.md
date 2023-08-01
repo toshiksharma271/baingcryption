@@ -1,2 +1,2 @@
 # baingcryption
-#Live Link --> [BaingCryption](BaingCryption.vercel.app)
+#Live Link --> [BaingCryption](https://baingcryption.vercel.app)
